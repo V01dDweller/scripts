@@ -11,7 +11,7 @@
 # - Disables selinux
 # - Adds time stamps to .bash_history
 # - Sets global http_proxy
-# - Configures and mount /u01 to /deb/sdb via LVM
+# - Configures and mount /u01 to /dev/sdb via LVM
 # - Installs missing packages
 # - Removes OpenJDK and installs Oracle JDK 8
 # - Removes "quiet" and "graphical boot" options from grub.conf
